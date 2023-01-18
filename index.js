@@ -19,6 +19,11 @@ const questions = [
     },
     {
         type: 'input',
+        name: 'email',
+        message: 'What is your email?',
+    },
+    {
+        type: 'input',
         name: 'description',
         message: 'Write a description of your project:',
     },
@@ -31,6 +36,11 @@ const questions = [
         type: 'input',
         name: 'useage',
         message: 'Provide instructions and examples for use:',
+    },
+    {
+        type: 'input',
+        name: 'testing',
+        message: "Provide any testing you've used in your project:",
     },
     {
         type: 'input',
@@ -59,7 +69,6 @@ const questions = [
 
 // TODO: Create a function to write README file
 let writeToFile = (fileName, data) => {
-    console.log(writeToFile)
     fs.writeFile(fileName, data, function(err) {
         if (err) {
             return console.log(err);
