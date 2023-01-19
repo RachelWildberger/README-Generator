@@ -1,7 +1,7 @@
 
   # README Generator
 
-  [![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Table of Contents
   - [Project description](#Description)
@@ -14,16 +14,16 @@
   - [License](#license)
 
   ## Description 
-  Created a command-line application that dynamically generates a professional README.md file from a user's input using node.js. 
+  Created a command-line application that dynamically generates a professional README.md file from a user's input using inquirer.js and node.js 
   
   ## Installation
-  Installation of inquirer ``npm install inquirer@8.2.4`` 
+  Installation of inquirer.js. Use ``npm install inquirer@8.2.4`` 
   
   ## Useage 
   This application will be invoked by using the following command: node index.js  
 
   ## Testing 
-  This application will be invoked by using the following command: node index.js  
+  n/a 
   
   ## Collaborators 
   n/a 
@@ -34,12 +34,11 @@
   ## Questions?
   Contact me at:
 
-  GitHub: @RachelWildberger 
+  GitHub: https://github.com/RachelWildberger
 
   Email: rachelwildberger@icloud.com
   
   ## License 
-  README Generator is licensed under the [![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html).
-
-
-
+  README Generator is licensed under the: 
+  
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
