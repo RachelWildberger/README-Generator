@@ -4,7 +4,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Table of Contents
-  - [Project description](#Description)
+  - [Description](#Description)
   - [Installation](#Installation)
   - [Useage](#useage)
   - [Testing](#testing)
