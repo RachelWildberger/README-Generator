@@ -21,9 +21,10 @@
   
   ## Useage 
   This application will be invoked by using the following command: node index.js. Answer the prompt questions and a README.md file will be generated. Watch video of how to use the README Generator: 
-  ![Mock of README Generator](./assets/README-Generator-Pic.png)
   
   https://drive.google.com/file/d/1JgTvJf3FZGpRE54zsZ5pymtSqFb_Im0T/view 
+
+![Mock of README Generator](./assets/README-Generator-Pic.png)
 
   ## Testing 
   n/a 
